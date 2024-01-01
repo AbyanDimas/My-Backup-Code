@@ -1,0 +1,23 @@
+div.row.row-cols-1.row-cols-md-2.g-4 {
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+h3.Pengetahuan {
+    margin-left: 10px;
+}
+
+p.Pengetahuan {
+    margin-left: 10px;
+}
+
+p.lead {
+    margin-left: 10px;
+}
+
+form.row.g-3.needs-validation {
+    margin-left: auto;
+    margin-right: auto;
+}
